@@ -27,7 +27,7 @@ common-multipart-rfc7578  = "0.6"
 dirs                      = "4"
 futures                   = "0.3"
 http                      = "0.2"
-multiaddr                 = "0.17"
+multiaddr                 = "0.18"
 multibase                 = "0.9"
 serde                     = { version = "1", features = ["derive"] }
 serde_json                = "1"
