@@ -46,7 +46,7 @@ pub struct DhtProvide<'a> {
 }
 
 impl<'a> ApiRequest for DhtProvide<'a> {
-    const PATH: &'static str = "/dht/provide";
+    const PATH: &'static str = "/routing/provide";
 }
 
 #[derive(Serialize)]
